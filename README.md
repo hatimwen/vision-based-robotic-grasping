@@ -1,4 +1,4 @@
-## What I have done?
+## What have I done?
 
 Just to help you __download__ the papers you want much more easily.
 
@@ -15,7 +15,7 @@ Just to help you __download__ the papers you want much more easily.
 __NOTE:__
 
     Before you use, it's better read and change the codes.
-
+    
     Specifically, you should change the value of `name` in  `download.py`(line 18) into the md file you split, e.g. '6DoF Grasp.md'.
 
 The following is [the original version](https://github.com/GeorgeDu/vision-based-robotic-grasping) of Dr. Du.
@@ -2160,6 +2160,8 @@ In this situation, there exist no 3D models, an the 6-DoF grasps are estimated f
 
 ***2021:***
 
+**[ICRA]** Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes, [[paper](https://arxiv.org/pdf/2103.14127.pdf)] [[code](https://research.nvidia.com/publication/2021-03_Contact-GraspNet%3A--Efficient)]
+
 **[ICRA]** RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images, [[paper](https://arxiv.org/pdf/2103.02184.pdf)]
 
 ***2020:***
@@ -2184,7 +2186,7 @@ In this situation, there exist no 3D models, an the 6-DoF grasps are estimated f
 
 **[arXiv]** Real-time Fruit Recognition and Grasp Estimation for Autonomous Apple harvesting, [[paper](https://arxiv.org/pdf/2003.13298.pdf)]
 
-**[arXiv]** PointNet++ Grasping: Learning An End-to-end Spatial Grasp Generation Algorithm from Sparse Point Clouds, [[paper](https://arxiv.org/pdf/2003.09644.pdf)][[code](https://github.com/pyni/PointNet2_Grasping_Data_Part)]
+**[ICRA]** PointNet++ Grasping: Learning An End-to-end Spatial Grasp Generation Algorithm from Sparse Point Clouds, [[paper](https://arxiv.org/pdf/2003.09644.pdf)] [[code](https://github.com/pyni/PointNet2_Grasping_Data_Part)]
 
 **[arXiv]** EGAD! an Evolved Grasping Analysis Dataset for diversity and reproducibility in robotic manipulation, [[paper](https://arxiv.org/pdf/2003.01314.pdf)]
 
